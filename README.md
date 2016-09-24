@@ -1,7 +1,7 @@
 Minimal-Resume
 ================
 
-Minimal-Resume is a one-column and clean resume template for professional usage. It supports XeTeX. XeTeX is a TeX typesetting engine that can be [thought](http://tex.stackexchange.com/questions/3393/what-is-xetex-exactly-and-why-should-i-use-it) of as standard LaTeX (pdftex) with support for Open Type Fonts.
+Minimal-Resume is a one-column and clean resume template for professional usage. It supports XeTeX. XeTeX is a TeX typesetting engine that can be [thought](http://tex.stackexchange.com/questions/3393/what-is-xetex-exactly-and-why-should-i-use-it) of as standard LaTeX (pdftex) with support for Open Type Fonts. The demo PDF is included in the project.
 
 ##Why yet another resume template?
 
