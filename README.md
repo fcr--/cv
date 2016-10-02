@@ -41,4 +41,4 @@ The custom environments are self-explanatory from the demo.
 
 ## Concluding remarks
 
-The design is largly influenced by the book by [Typography for Lawyers](http://www.typographyforlawyers.com/) by Matthew Butterick (with his permission, of course).
+The design is largly influenced by the book [Typography for Lawyers](http://www.typographyforlawyers.com/) by Matthew Butterick (with his permission, of course).
