@@ -11,6 +11,9 @@
 *.cb
 *.cb2
 
+## Commands with private info:
+config/custom-command.tex
+
 ## Intermediate documents:
 *.dvi
 *-converted-to.*
